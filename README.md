@@ -15,7 +15,7 @@ GitHub picks these files up by their path, so they apply across the organization
 
 ## Contributing
 
-Changes to the profile go through a pull request like any other repository. Start with these files:
+Contributions are welcome. Start with these files:
 
 - [CONTRIBUTING.md](https://github.com/ansibleforms/ansibleforms/blob/main/CONTRIBUTING.md): how to open a pull request
 - [SECURITY.md](https://github.com/ansibleforms/ansibleforms/blob/main/SECURITY.md): how to report a security issue
