@@ -1,4 +1,18 @@
-# AnsibleForms
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="logo_dark.svg">
+    <img src="logo_light.svg" alt="AnsibleForms" width="380">
+  </picture>
+
+  <h3>Self-service forms for your Ansible playbooks and automation templates.</h3>
+
+  <a href="https://ansibleforms.com"><img src="dashboard.jpg" alt="The AnsibleForms forms page: forms as tiles grouped by category"></a>
+
+  <a href="https://ansibleforms.com">Website</a> •
+  <a href="https://ansibleforms.com/en/installation/">Install</a> •
+  <a href="https://github.com/ansibleforms/ansibleforms">Main repository</a> •
+  <a href="https://github.com/ansibleforms/ansibleforms/releases/latest">Latest release</a>
+</div>
 
 Your playbooks already know how to do the work; AnsibleForms lets the rest of your team ask for it.
 Describe a form in YAML, fill its dropdowns from databases, REST APIs and expressions, and every
